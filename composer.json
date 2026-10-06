@@ -6,8 +6,8 @@
     "GPL-2.0-or-later"
   ],
   "require": {
-    "google/cloud-storage": "1.1.*",
-    "guzzlehttp/psr7": "1.*",
+    "google/cloud-storage": "^1.51",
+    "guzzlehttp/psr7": "^2.10.2",
     "ext-json": "*",
     "ext-pdo": "*",
     "ext-zlib": "*"
